@@ -23,6 +23,8 @@ El juego requiere Python y la biblioteca NumPy instalada.
 
 
 
+
+
 (English version)
 
 # Secret Number Guessing.
